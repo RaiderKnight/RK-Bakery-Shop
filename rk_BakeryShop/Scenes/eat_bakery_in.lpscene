@@ -21,14 +21,14 @@ OTHER: none
         BKMeal8 = Player.getActorVar(rk_BKMeal8)
         
         Player::"Ok, which pastry or bread I'm gonna eat?"
-        0:: stock_bakeryproduct >= 0.5 :: "1 pita"
+        0:: stock_bakeryproduct >= 1:: "1 pita"
         1:: stock_bakeryproduct >= 1:: "1 Nutricious bread"
-        2:: stock_bakeryproduct >= 1.25:: "1 Whole grain bagel"
-        3:: stock_bakeryproduct >= 1.5:: "1 Baltik bread"
-        4:: stock_bakeryproduct >= 1.75:: "1 Protein cookie"
-        5:: stock_bakeryproduct >= 2:: "1 Vdolky donut"
-        6:: stock_bakeryproduct >= 2.25:: "1 piece Homemade apple pie"
-        7:: stock_bakeryproduct >= 2.5:: "1 piece of Royal cake"
+        2:: stock_bakeryproduct >= 1:: "1 Whole grain bagel"
+        3:: stock_bakeryproduct >= 1:: "1 Baltik bread"
+        4:: stock_bakeryproduct >= 1:: "1 Protein cookie"
+        5:: stock_bakeryproduct >= 1:: "1 Vdolky donut"
+        6:: stock_bakeryproduct >= 1:: "1 piece Homemade apple pie"
+        7:: stock_bakeryproduct >= 1:: "1 piece of Royal cake"
         8:: "Bah! I'm not hungry !"
         
         If 0
