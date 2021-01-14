@@ -6,8 +6,8 @@ OTHER: none
 
     SceneStart()
     
-    If  stock_bakeryproduct < 1 
-        Player(Anxious)::"Ok, no pastry or bread to eat! I need to go shop to the bakery !"
+    If stock_bakeryproduct < 1 
+        Player(Anxious)::"Ok, not enough pastry or bread to eat! I need to go shop to the bakery !"
     Else
         
         // Get current bakery types

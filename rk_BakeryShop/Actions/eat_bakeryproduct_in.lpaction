@@ -1,5 +1,5 @@
 ACTION_UNIQUEID: eat_bakeryproduct_in
-ACTION_NAME: Eat a bakery
+ACTION_NAME: Eat pastry or bread
 WHERE: home, work, fraternity
 WHEN: 0 - 24
 MINUTES: 1 - 5
@@ -9,4 +9,4 @@ EFFECTS:
 CONDITIONS: 
 MOVE_FIRST: true
 SCENE_ALWAYS: eat_bakery_in
-ANIMATION: eat
+ANIMATION: 
