@@ -4,16 +4,18 @@ https://github.com/vinfamy/LifePlay
 
 
 ### 1- rk_BakeryShop  : 
-Add options to buy/eat bakery at different places around the city.
+Add options to buy/eat bakery products at different places around the city.  
+8 types of bakery products.  
+Contain 3 scenes. 
 
 
 ### Module requirements
-None
+At least LifePlay 3.18
 
 
 ### Module conflict
 rk_ShopAddons : You need to uninstall this mod (same content...)
-
+ 
 
 ### How to install
 Download the mod and add it to : ..\LifePlay\Content\Modules
@@ -24,7 +26,7 @@ c:\..\LifePlay\Content\Modules\rk_BakeryShop
 
 NOT
 
-c:\..\LifePlay\Content\Modules\rk_BakeryShop\rk_BakeryShop
+c:\..\LifePlay\Content\Modules\RK-Bakery-Shop\rk_BakeryShop
 
 After the mod have been installed, make sure the mod is active in the Mod Manager. 
 
