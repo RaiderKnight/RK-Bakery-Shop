@@ -1,7 +1,7 @@
 MODULE_UNIQUEID: rk_BakeryShop
-MODULE_NAME: Vegan Shop Module
+MODULE_NAME: Bakery Shop Module
 MODULE_AUTHOR: Raddeck
-MODULE_LINK: https://github.com/RaiderKnight/
-MODULE_DESCRIPTION: Add options to buy bakery !
+MODULE_LINK: https://github.com/RaiderKnight/RK-Bakery-Shop
+MODULE_DESCRIPTION: Add options to buy/eat pastry and bread !
 MODULE_REQUIREMENTS:
-MODULE_VERSION: 0.1
+MODULE_VERSION: 1.0
