@@ -56,14 +56,14 @@ OTHER: none
                 Player(Anxious)::"Ok, I don't have any bread or pastry! I have to go to the bakery shop!"
             Else
             
-                0:: "<stock_HealthyPopcorn> pita(s)"
-                0:: "<stock_HealthyPopcorn> Nutricious bread(s)"
-                0:: "<stock_HealthyPopcorn> Whole grain bagel(s)"
-                0:: "<stock_HealthyPopcorn> Baltik bread(s)"
-                0:: "<stock_HealthyPopcorn> Protein cookie(s)"
-                0:: "<stock_HealthyPopcorn> Vdolky donut(s)"
-                0:: "<stock_HealthyPopcorn> piece Homemade apple pie(s)"
-                0:: "<stock_HealthyPopcorn> piece of Royal cake(s)"
+                0:: "<stock_Pita> pita(s)"
+                0:: "<stock_Bread> Nutricious bread(s)"
+                0:: "<stock_Bagel> Whole grain bagel(s)"
+                0:: "<stock_BaltikBread> Baltik bread(s)"
+                0:: "<stock_ProteinCookie> Protein cookie(s)"
+                0:: "<stock_VdolkyDonut> Vdolky donut(s)"
+                0:: "<stock_ApplePie> piece Homemade apple pie(s)"
+                0:: "<stock_RoyalCake> piece of Royal cake(s)"
                 99:: "Go back !"
             
             Endif
