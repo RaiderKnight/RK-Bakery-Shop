@@ -4,4 +4,4 @@ MODULE_AUTHOR: Raddeck
 MODULE_LINK: https://github.com/RaiderKnight/RK-Bakery-Shop
 MODULE_DESCRIPTION: Add options to buy/eat pastry and bread !
 MODULE_REQUIREMENTS:
-MODULE_VERSION: 1.0
+MODULE_VERSION: 1.0.1
